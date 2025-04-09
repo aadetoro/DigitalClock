@@ -60,7 +60,7 @@ public class DigitalClockApp {
                 case 4:
                     return;
                 default:
-                    System.out.println("Invalid choice.");
+                    System.out.println("Invalid choices.");
             }
         }
     }
